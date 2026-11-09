@@ -1,0 +1,15 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home - RROMS";
+}
+
+<div class="text-center my-5">
+    <h1 class="display-4 fw-bold">Welcome to Gourmet Bistro RROMS</h1>
+    <p class="lead">Restaurant Reservation & Online Order Management System</p>
+    <div class="mt-4">
+        <a asp-page="/Customer/Login" class="btn btn-primary btn-lg me-2">Customer Portal</a>
+        <a asp-page="/Staff/Login" class="btn btn-secondary btn-lg me-2">Staff Portal</a>
+        <a asp-page="/Admin/Login" class="btn btn-outline-dark btn-lg">Admin Portal</a>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Customer.DashboardModel
+@{
+    ViewData["Title"] = "Customer Dashboard";
+}
+
+<div class="container my-4">
+    <h2>Welcome Back, @User.Identity?.Name!</h2>
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm text-center">
+                <h5>Digital Menu</h5>
+                <p>Browse our menu and place your orders online.</p>
+                <a asp-page="/Customer/Menu" class="btn btn-primary">Browse Menu</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm text-center">
+                <h5>Table Reservation</h5>
+                <p>Reserve a table in advance for dining.</p>
+                <a asp-page="/Customer/Reservations" class="btn btn-success">Book a Table</a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm text-center">
+                <h5>My Orders & History</h5>
+                <p>Track live order status & history.</p>
+                <a asp-page="/Customer/Orders" class="btn btn-info text-white">Track Orders</a>
+            </div>
+        </div>
+    </div>
+</div>

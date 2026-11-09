@@ -1,0 +1,41 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Admin.DashboardModel
+@{
+    ViewData["Title"] = "Admin Executive Dashboard";
+}
+
+<div class="container-fluid my-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2><i class="bi bi-speedometer2"></i> Executive Dashboard</h2>
+        <a asp-page="/Admin/ExportReport" class="btn btn-danger">
+            <i class="bi bi-file-earmark-pdf"></i> Export Sales PDF Report
+        </a>
+    </div>
+
+    <div class="row g-4 mb-4">
+        <div class="col-md-3">
+            <div class="card border-0 shadow-sm p-3 border-start border-4 border-success">
+                <span class="text-muted small">Today's Total Sales</span>
+                <h3 class="fw-bold text-success mb-0">$@Model.TodaySales.ToString("F2")</h3>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card border-0 shadow-sm p-3 border-start border-4 border-primary">
+                <span class="text-muted small">Total Orders Today</span>
+                <h3 class="fw-bold text-primary mb-0">@Model.TotalOrdersToday</h3>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card border-0 shadow-sm p-3 border-start border-4 border-info">
+                <span class="text-muted small">Table Occupancy Rate</span>
+                <h3 class="fw-bold text-info mb-0">@Model.OccupancyRate.ToString("F1")%</h3>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card border-0 shadow-sm p-3 border-start border-4 border-warning">
+                <span class="text-muted small">Average Feedback Rating</span>
+                <h3 class="fw-bold text-warning mb-0">@Model.AverageRating.ToString("F1") / 5.0</h3>
+            </div>
+        </div>
+    </div>
+</div>

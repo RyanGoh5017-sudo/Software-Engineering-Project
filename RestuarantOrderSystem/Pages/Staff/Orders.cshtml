@@ -1,0 +1,58 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Staff.OrdersModel
+@{
+    ViewData["Title"] = "Staff Order Management Terminal";
+}
+
+<div class="container-fluid my-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2><i class="bi bi-receipt"></i> Kitchen & Staff Order Terminal</h2>
+        <span class="badge bg-success p-2"><i class="bi bi-arrow-repeat"></i> Active Terminal Engine</span>
+    </div>
+
+    <div class="row g-4">
+        @foreach (var order in Model.Orders)
+        {
+            <div class="col-md-4">
+                <div class="card shadow-sm h-100 border-primary">
+                    <div class="card-header bg-primary text-white d-flex justify-content-between align-items-center">
+                        <span class="fw-bold">Order #@order.OrderId</span>
+                        <span class="badge bg-light text-dark">Table: @(order.Table?.TableNumber ?? "Takeout")</span>
+                    </div>
+                    <div class="card-body">
+                        <p class="text-muted small mb-2"><i class="bi bi-person"></i> Customer: @(order.User?.FullName ?? "Guest")</p>
+                        <p class="text-muted small mb-3"><i class="bi bi-clock"></i> Placed: @order.OrderDate.ToString("g")</p>
+
+                        <h6>Order Items:</h6>
+                        <ul class="list-group list-group-flush mb-3">
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li class="list-group-item d-flex justify-content-between px-0">
+                                    <span>@item.MenuItem?.Name</span>
+                                    <span class="badge bg-secondary">x@item.Quantity</span>
+                                </li>
+                            }
+                        </ul>
+
+                        <div class="d-flex justify-content-between align-items-center mb-2">
+                            <span class="fw-bold">Total Amount:</span>
+                            <span class="text-success fw-bold">$@order.TotalAmount.ToString("F2")</span>
+                        </div>
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <span class="fw-bold">Current Status:</span>
+                            <span class="badge bg-warning text-dark">@order.Status</span>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <form method="post" asp-page-handler="UpdateOrderStatus" class="d-flex gap-2">
+                            <input type="hidden" name="orderId" value="@order.OrderId" />
+                            <select name="newStatus" class="form-select form-select-sm" asp-for="@order.Status" asp-items="Html.GetEnumSelectList<RestuarantOrderSystem.Models.OrderStatus>()">
+                            </select>
+                            <button type="submit" class="btn btn-sm btn-primary">Update Status</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

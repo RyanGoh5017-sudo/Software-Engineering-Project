@@ -1,0 +1,30 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Staff.BillingModel
+@{
+    ViewData["Title"] = "Billing Management";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-cash-stack"></i> Billing & Payments Record</h2>
+    <table class="table mt-4">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Amount</th>
+                <th>Method</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var payment in Model.Payments)
+            {
+                <tr>
+                    <td>#@payment.OrderId</td>
+                    <td>$@payment.Amount.ToString("F2")</td>
+                    <td>@payment.PaymentMethod</td>
+                    <td><span class="badge bg-success">@payment.Status</span></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,37 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Customer.ReservationsModel
+@{
+    ViewData["Title"] = "Book Table";
+}
+
+<div class="container my-4">
+    <h2>Table Reservation</h2>
+    <form method="post" class="mt-4">
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label class="form-label">Reservation Date</label>
+                <input asp-for="Input.ReservationDate" type="date" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Time Slot</label>
+                <input asp-for="Input.TimeSlot" type="time" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Guest Count</label>
+                <input asp-for="Input.GuestCount" type="number" min="1" max="20" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Select Table</label>
+                <select asp-for="Input.TableId" class="form-select" asp-items="@(new SelectList(Model.AvailableTables, "TableId", "TableNumber"))">
+                </select>
+            </div>
+            <div class="col-12">
+                <label class="form-label">Special Requests</label>
+                <textarea asp-for="Input.SpecialRequests" class="form-control" rows="2"></textarea>
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Confirm Reservation</button>
+            </div>
+        </div>
+    </form>
+</div>

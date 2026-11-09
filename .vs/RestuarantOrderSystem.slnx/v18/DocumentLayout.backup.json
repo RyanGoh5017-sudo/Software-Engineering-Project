@@ -1,0 +1,1225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\menu.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\reservations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\reservations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\menumanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\menumanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\menumanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\menumanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\announcements.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\systemannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\systemannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\exportreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\exportreport.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\reports.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\services\\pdfreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\notifications.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\notifications.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\restaurantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\restaurantinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\menucategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\exportreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\exportreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\customer\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\billing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\billing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\billing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\billing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\orders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\reservations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\reservations.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\reservations.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\staff\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\staff\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\announcements.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\announcements.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\restaurantsettings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\restaurantsettings.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\restaurantsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\restaurantsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\usermanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\usermanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\pages\\admin\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\pages\\admin\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\migrations\\20261031103240_fulldatabasesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\migrations\\20261031103240_fulldatabasesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\migrations\\20261031095226_initialfullcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\migrations\\20261031095226_initialfullcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|c:\\users\\restlessrex\\source\\repos\\restuarantordersystem\\restuarantordersystem\\migrations\\20261031100102_initialfullcreatenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D52F437-99F3-740E-8A10-1CE612BC5F72}|RestuarantOrderSystem\\RestuarantOrderSystem.csproj|solutionrelative:restuarantordersystem\\migrations\\20261031100102_initialfullcreatenew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:02:14.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:03:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:40:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Menu.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA6wEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:41:02.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAcwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T05:55:06.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\MenuItem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:26:29.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Program.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAUwF4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:29:14.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T10:37:22.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Order.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:29:48.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Reservation.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\Reservation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:28:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T09:27:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Orders.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:27:45.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservations.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:17:54.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuManagement.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:24:06.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\MenuManagement.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:21:20.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Announcements.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:46:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:13:50.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:11:32.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:03:35.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExportReport.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:23:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Reports.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:37:19.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T10:56:13.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T10:43:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20261031103240_FullDatabaseSetup.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031103240_FullDatabaseSetup.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Migrations\\20261031103240_FullDatabaseSetup.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031103240_FullDatabaseSetup.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Migrations\\20261031103240_FullDatabaseSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:32:40.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Payment.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\Payment.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:33:17.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SystemAnnouncement.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\SystemAnnouncement.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\SystemAnnouncement.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\SystemAnnouncement.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\SystemAnnouncement.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:58:01.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\Feedback.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:59:39.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PdfReportService.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\PdfReportService.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Services\\PdfReportService.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\PdfReportService.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Services\\PdfReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:59:36.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Feedback.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:35:16.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20261031095226_InitialFullCreate.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031095226_InitialFullCreate.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Migrations\\20261031095226_InitialFullCreate.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031095226_InitialFullCreate.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Migrations\\20261031095226_InitialFullCreate.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAiwCQBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:52:26.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20261031100102_InitialFullCreateNew.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031100102_InitialFullCreateNew.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Migrations\\20261031100102_InitialFullCreateNew.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Migrations\\20261031100102_InitialFullCreateNew.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Migrations\\20261031100102_InitialFullCreateNew.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T10:01:02.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Feedback.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T09:34:31.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Notifications.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:32:37.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Notifications.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T09:31:35.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T09:30:05.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T09:29:27.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:52:05.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\appsettings.json",
+              "RelativeToolTip": "RestuarantOrderSystem\\appsettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T11:25:21.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RestaurantInfo.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\RestaurantInfo.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\RestaurantInfo.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\RestaurantInfo.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\RestaurantInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:20:09.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Reservations.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Reservations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T09:17:17.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:35:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:35:02.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:11:22.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T04:36:38.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:12:31.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MenuCategory.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\MenuCategory.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\MenuCategory.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\MenuCategory.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\MenuCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:24:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ExportReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\ExportReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:23:18.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:31:37.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:31:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Customer\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:10:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:07:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T03:06:30.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Orders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Orders.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T03:04:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Billing.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T02:56:32.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Billing.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Billing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T02:55:30.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Reservations.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T02:49:53.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Reservations.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Reservations.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T02:48:25.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T02:46:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-31T02:45:36.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Staff\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:50:49.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T11:42:08.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:41:31.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-30T11:37:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Announcements.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Announcements.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:46:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RestaurantSettings.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:40:16.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RestaurantSettings.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\RestaurantSettings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:39:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:05:17.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-29T11:17:11.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Services\\RecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:37:00.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserManagement.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\UserManagement.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:18:59.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Pages\\Admin\\Login.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:07:25.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Services\\CartService.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:13:51.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:31:33.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "RestaurantTable.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\RestaurantTable.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\RestaurantTable.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\RestaurantTable.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\RestaurantTable.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:22:22.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "RestuarantOrderSystem\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\RestlessRex\\source\\repos\\RestuarantOrderSystem\\RestuarantOrderSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "RestuarantOrderSystem\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:15:22.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

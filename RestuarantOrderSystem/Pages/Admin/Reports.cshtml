@@ -1,0 +1,52 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Admin.ReportsModel
+@{
+    ViewData["Title"] = "Reports & Analytics Exporter";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-file-earmark-bar-graph"></i> System Reports & Data Exports</h2>
+
+    <div class="card p-4 shadow-sm my-4">
+        <h5>Date Range Filter</h5>
+        <form method="get" class="row g-3">
+            <div class="col-md-4">
+                <label class="form-label">Start Date</label>
+                <input asp-for="StartDate" type="date" class="form-control" />
+            </div>
+            <div class="col-md-4">
+                <label class="form-label">End Date</label>
+                <input asp-for="EndDate" type="date" class="form-control" />
+            </div>
+            <div class="col-md-4 d-flex align-items-end gap-2">
+                <button type="submit" class="btn btn-primary w-100"><i class="bi bi-filter"></i> Apply Filter</button>
+            </div>
+        </form>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-6">
+            <div class="card p-3 shadow-sm h-100">
+                <h5>Executive PDF Sales Report</h5>
+                <p class="text-muted small">Generates a formatted PDF containing all completed orders, item breakdowns, and gross revenues within the selected date range.</p>
+                <a asp-page="/Admin/ExportReport" asp-route-startDate="@Model.StartDate?.ToString("yyyy-MM-dd")" asp-route-endDate="@Model.EndDate?.ToString("yyyy-MM-dd")" class="btn btn-danger mt-auto">
+                    <i class="bi bi-file-earmark-pdf"></i> Download Sales PDF
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="card p-3 shadow-sm h-100">
+                <h5>Raw Data CSV Export</h5>
+                <p class="text-muted small">Export raw transaction logs and reservation activity in standard CSV format for spreadsheet analysis in Excel.</p>
+                <form method="post" asp-page-handler="ExportCsv" class="mt-auto">
+                    <input type="hidden" name="start" value="@Model.StartDate?.ToString("yyyy-MM-dd")" />
+                    <input type="hidden" name="end" value="@Model.EndDate?.ToString("yyyy-MM-dd")" />
+                    <button type="submit" class="btn btn-success w-100">
+                        <i class="bi bi-file-earmark-excel"></i> Download CSV Export
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

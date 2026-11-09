@@ -1,0 +1,40 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Customer.RegisterModel
+@{
+    ViewData["Title"] = "Customer Registration";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card shadow-lg border-0 rounded-3">
+            <div class="card-header bg-primary text-white text-center py-3">
+                <h3><i class="bi bi-person-plus"></i> Create Customer Account</h3>
+            </div>
+            <div class="card-body p-4">
+                @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                {
+                    <div class="alert alert-danger">@Model.ErrorMessage</div>
+                }
+                <form method="post">
+                    <div class="mb-3">
+                        <label class="form-label">Full Name</label>
+                        <input asp-for="Input.FullName" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Email Address</label>
+                        <input asp-for="Input.Email" type="email" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Phone Number</label>
+                        <input asp-for="Input.PhoneNumber" class="form-control" required />
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label">Password</label>
+                        <input asp-for="Input.Password" type="password" class="form-control" required />
+                    </div>
+                    <button type="submit" class="btn btn-primary w-100 py-2">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Staff.ReservationsModel
+@{
+    ViewData["Title"] = "Staff Reservation Desk";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-calendar-event"></i> Daily Table Reservations</h2>
+    <table class="table align-middle mt-4">
+        <thead>
+            <tr>
+                <th>Customer</th>
+                <th>Table</th>
+                <th>Time Slot</th>
+                <th>Guests</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var res in Model.Reservations)
+            {
+                <tr>
+                    <td>@res.User?.FullName</td>
+                    <td>@res.Table?.TableNumber</td>
+                    <td>@res.TimeSlot</td>
+                    <td>@res.GuestCount</td>
+                    <td><span class="badge bg-primary">@res.Status</span></td>
+                    <td>
+                        <form method="post" asp-page-handler="Confirm" asp-route-id="@res.ReservationId" class="d-inline">
+                            <button class="btn btn-sm btn-success">Confirm</button>
+                        </form>
+                        <form method="post" asp-page-handler="Cancel" asp-route-id="@res.ReservationId" class="d-inline">
+                            <button class="btn btn-sm btn-danger">Cancel</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

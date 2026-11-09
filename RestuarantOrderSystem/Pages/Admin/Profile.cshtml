@@ -1,0 +1,35 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Admin.ProfileModel
+@{
+    ViewData["Title"] = "Admin Security & Profile";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-person-shield"></i> Administrator Security Profile</h2>
+
+    @if (!string.IsNullOrEmpty(Model.Message))
+    {
+        <div class="alert alert-success mt-3">@Model.Message</div>
+    }
+
+    <form method="post" class="card p-4 shadow-sm mt-4 col-md-6">
+        <div class="mb-3">
+            <label class="form-label">Full Name</label>
+            <input asp-for="AdminUser.FullName" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Email Address</label>
+            <input asp-for="AdminUser.Email" type="email" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Phone Number</label>
+            <input asp-for="AdminUser.PhoneNumber" class="form-control" required />
+        </div>
+        <hr />
+        <div class="mb-3">
+            <label class="form-label">New Password (leave blank to keep current)</label>
+            <input asp-for="NewPassword" type="password" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-dark">Save Profile Changes</button>
+    </form>
+</div>

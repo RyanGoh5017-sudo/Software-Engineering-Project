@@ -1,0 +1,49 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Staff.DashboardModel
+@{
+    ViewData["Title"] = "Staff Kitchen Dashboard";
+}
+
+<div class="container-fluid my-4">
+    <h2><i class="bi bi-fire"></i> Live Order Processing Terminal</h2>
+    <div class="row mt-4">
+        @foreach (var order in Model.ActiveOrders)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card border-primary shadow-sm h-100">
+                    <div class="card-header bg-primary text-white d-flex justify-content-between">
+                        <span class="fw-bold">Order #@order.OrderId</span>
+                        <span>Table: @(order.Table?.TableNumber ?? "Takeout")</span>
+                    </div>
+                    <div class="card-body">
+                        <h6>Items:</h6>
+                        <ul class="list-group list-group-flush mb-3">
+                            @foreach (var item in order.OrderItems)
+                            {
+                                <li class="list-group-item d-flex justify-content-between px-0">
+                                    <span>@item.MenuItem?.Name</span>
+                                    <span class="badge bg-secondary">x@item.Quantity</span>
+                                </li>
+                            }
+                        </ul>
+                        <div class="d-flex justify-content-between align-items-center mb-2">
+                            <span class="fw-bold">Status:</span>
+                            <span class="badge bg-warning text-dark">@order.Status</span>
+                        </div>
+                    </div>
+                    <div class="card-footer bg-transparent">
+                        <form method="post" asp-page-handler="UpdateStatus" class="d-flex gap-2">
+                            <input type="hidden" name="orderId" value="@order.OrderId" />
+                            <select name="newStatus" class="form-select form-select-sm">
+                                <option value="Preparing">Preparing</option>
+                                <option value="ReadyToServe">Ready To Serve</option>
+                                <option value="Served">Served</option>
+                                <option value="Completed">Completed</option>
+                                <option value="Cancelled">Cancelled</option>
+                            </select>
+                            <button type="submit" class="btn btn-sm btn-primary">Update</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }

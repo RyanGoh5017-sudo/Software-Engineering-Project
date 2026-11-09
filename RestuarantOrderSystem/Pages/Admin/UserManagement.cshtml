@@ -1,0 +1,57 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Admin.UserManagementModel
+@{
+    ViewData["Title"] = "User Account Management";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-people"></i> User Account & Role Management</h2>
+    <div class="card p-3 my-4 shadow-sm">
+        <h5>Create New Account</h5>
+        <form method="post" asp-page-handler="CreateUser" class="row g-3">
+            <div class="col-md-3">
+                <input asp-for="NewUser.FullName" class="form-control" placeholder="Full Name" required />
+            </div>
+            <div class="col-md-3">
+                <input asp-for="NewUser.Email" type="email" class="form-control" placeholder="Email" required />
+            </div>
+            <div class="col-md-2">
+                <input asp-for="NewUser.PhoneNumber" class="form-control" placeholder="Phone" required />
+            </div>
+            <div class="col-md-2">
+                <select asp-for="NewUser.Role" class="form-select">
+                    <option value="Customer">Customer</option>
+                    <option value="Staff">Staff</option>
+                    <option value="Admin">Admin</option>
+                </select>
+            </div>
+            <div class="col-md-2">
+                <button type="submit" class="btn btn-primary w-100">Add User</button>
+            </div>
+        </form>
+    </div>
+
+    <table class="table table-hover align-middle">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Role</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>#@user.UserId</td>
+                    <td>@user.FullName</td>
+                    <td>@user.Email</td>
+                    <td>@user.PhoneNumber</td>
+                    <td><span class="badge bg-secondary">@user.Role</span></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

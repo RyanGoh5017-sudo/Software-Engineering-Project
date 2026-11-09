@@ -1,0 +1,84 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Customer.OrdersModel
+@using RestuarantOrderSystem.Models
+@{
+    ViewData["Title"] = "My Orders & History";
+}
+
+<div class="container my-4">
+    <h2 class="mb-4">Your Orders & Reservations</h2>
+
+    <!-- Food Orders Section -->
+    <h4 class="mt-4">Food Orders</h4>
+    <table class="table table-hover align-middle mb-5">
+        <thead class="table-dark">
+            <tr>
+                <th>Order ID</th>
+                <th>Date</th>
+                <th>Amount</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Orders != null && Model.Orders.Any())
+            {
+                @foreach (var order in Model.Orders)
+                {
+                    <tr>
+                        <td>#@order.OrderId</td>
+                        <td>@order.OrderDate.ToString("g")</td>
+                        <td>$@order.TotalAmount.ToString("F2")</td>
+                        <td><span class="badge bg-info">@order.Status</span></td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4" class="text-center text-muted py-3">No food orders found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- Table Reservations Section -->
+    <h4 class="mt-5">Table Reservations</h4>
+    <table class="table table-hover align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>Reservation Date</th>
+                <th>Time Slot</th>
+                <th>Guests</th>
+                <th>Table</th>
+                <th>Special Requests</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Reservations != null && Model.Reservations.Any())
+            {
+                @foreach (var res in Model.Reservations)
+                {
+                    <tr>
+                        <td>@res.ReservationDate.ToString("MM/dd/yyyy")</td>
+                        <td>@res.TimeSlot</td>
+                        <td>@res.GuestCount</td>
+                        <td>@(res.Table?.TableNumber ?? $"Table #{res.TableId}")</td>
+                        <td>@(string.IsNullOrEmpty(res.SpecialRequests) ? "None" : res.SpecialRequests)</td>
+                        <td>
+                            <span class="badge @(res.Status == ReservationStatus.Confirmed ? "bg-success" : "bg-warning text-dark")">
+                                @res.Status
+                            </span>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6" class="text-center text-muted py-3">No table reservations found.</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,24 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Customer.NotificationsModel
+@{
+    ViewData["Title"] = "Notifications Feed";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-bell"></i> System & Promotional Notifications</h2>
+    <div class="mt-4">
+        @foreach (var announcement in Model.Announcements)
+        {
+            <div class="card mb-3 shadow-sm @(announcement.IsPromotional ? "border-primary" : "")">
+                <div class="card-body">
+                    <h5 class="card-title">@announcement.Title @if (announcement.IsPromotional) {
+                        <span class="badge bg-danger">Promo</span>
+                    }
+                </h5>
+                <p class="card-text">@announcement.Content</p>
+                <small class="text-muted">Posted on @announcement.CreatedAt.ToString("f")</small>
+            </div>
+        </div>
+    }
+</div>
+</div>

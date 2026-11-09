@@ -1,0 +1,37 @@
+﻿@page
+@model RestuarantOrderSystem.Pages.Admin.RestaurantSettingsModel
+@{
+    ViewData["Title"] = "Restaurant Settings";
+}
+
+<div class="container my-4">
+    <h2><i class="bi bi-gear"></i> Restaurant Settings & Operating Hours</h2>
+
+    <form method="post" class="card p-4 shadow-sm mt-4">
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label class="form-label">Restaurant Name</label>
+                <input asp-for="Info.RestaurantName" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Contact Number</label>
+                <input asp-for="Info.ContactNumber" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Opening Time</label>
+                <input asp-for="Info.OpeningTime" type="time" class="form-control" required />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Closing Time</label>
+                <input asp-for="Info.ClosingTime" type="time" class="form-control" required />
+            </div>
+            <div class="col-12">
+                <label class="form-label">Dining Areas (Comma separated)</label>
+                <input asp-for="Info.DiningAreas" class="form-control" required />
+            </div>
+            <div class="col-12">
+                <button type="submit" class="btn btn-primary">Update Configuration</button>
+            </div>
+        </div>
+    </form>
+</div>
